@@ -1,7 +1,6 @@
 'scopeName': 'text.html.hack'
 'name': 'HACK'
 'fileTypes': [
-  'hh'
   'php'
 ]
 'firstLineMatch': '<?hh'
